@@ -1,6 +1,7 @@
 ## Welcome to the HomePage of Wind Estimation Project
 
-Measurement and Flight logs will be added alongside the processing notebook example on the date of final submission (in December 2022, if the draft paper is accepted). 
+Measurement and Flight logs will be added alongside the processing notebook example during the SciTech conference !
+Please keep an eye on the website...
 
 
 <!-- You can use the [editor on GitHub](https://github.com/mrtbrnz/wind_estimation/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
