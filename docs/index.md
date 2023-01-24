@@ -1,7 +1,11 @@
 ## Welcome to the HomePage of Wind Estimation Project
 
-Measurement and Flight logs will be added alongside the processing notebook example during the SciTech conference !
-Please keep an eye on the website...
+Measurement and Flight logs alongside with the processing notebook example can be reached at 
+
+
+<a href="https://colab.research.google.com/github/mrtbrnz/wind_estimation/blob/master/notebooks/simultaneous_wind_estimation_v02.ipynb">
+<img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
+
 
 
 <!-- You can use the [editor on GitHub](https://github.com/mrtbrnz/wind_estimation/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
