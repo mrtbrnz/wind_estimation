@@ -6,6 +6,7 @@ Measurement and Flight logs alongside with the processing notebook example can b
 <a href="https://colab.research.google.com/github/mrtbrnz/wind_estimation/blob/master/notebooks/simultaneous_wind_estimation_v02.ipynb">
 <img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 
+  
 
 ## Presentation Video
 [![Screenshot](https://img.youtube.com/vi/VZwxSnZaMwA/hqdefault.jpg)](https://youtu.be/VZwxSnZaMwA)
